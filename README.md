@@ -25,3 +25,7 @@ With this excel file ready, after ran the .py, it will generate 2 JSON file:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

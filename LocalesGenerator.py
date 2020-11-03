@@ -3,7 +3,7 @@ import pandas as pd
 import json
 
 #Read the Excel for column
-file_loc = "VueLocale.xlsx"
+file_loc = "localefile.xlsx"
 
 #Select Index(Code) and Column of Language
 den = pd.read_excel(file_loc,index_col="code", usecols = "A,C,D")
